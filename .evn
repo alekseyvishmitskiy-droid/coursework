@@ -1,3 +1,10 @@
-OPENSKY_CLIENT_ID="alekseyvishmitskiy@gmail.com-api-client"
-OPENSKY_CLIENT_SECRET="pnKkD6LBYtL4NiAGMQvXu4wlWdh4LRXW"
-NOMINATIM_USER_AGENT="AeroplanesCourseworkApp/2.0 (alekseyvishmitskiy@gmail.com)"
+# Конфигурация API-сервисов (URL)
+NOMINATIM_URL=https://openstreetmap.org
+OPENSKY_URL=https://opensky-network.org
+OPENSKY_TOKEN_URL=https://opensky-network.org
+
+# Учетные данные пользователя
+NOMINATIM_USER_AGENT=AeroplanesCourseworkApp/2.0 (alekseyvishmitskiy@gmail.com)
+OPENSKY_CLIENT_ID=ваш_client_id
+OPENSKY_CLIENT_SECRET=ваш_client_secret
+
